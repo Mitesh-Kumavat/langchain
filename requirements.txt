@@ -8,4 +8,5 @@ transformers
 huggingface-hub
 python-dotenv
 numpy
-sckit-learn
+scikit-learn
+sentencepiece
