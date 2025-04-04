@@ -1,0 +1,2 @@
+("human", "I want to refund my order with id #3523"),
+("ai", "Your order will be refunded within 4-5 business day.")
