@@ -9,8 +9,6 @@ load_dotenv()
 
 
 # Use the ChatOpenAI model for structured output 
-
-
 model = ChatGoogleGenerativeAI(
     model="gemini-1.5-pro"
 )
