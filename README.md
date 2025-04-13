@@ -42,6 +42,11 @@ Here’s a beginner-friendly day-by-day breakdown. Each day focuses on a specifi
 - Building sequential, conditional and parallel chains
 - Chaining prompts and models for multi-step tasks
 
+### 🗓️ [Day 7: Runnable](./runnable/)
+- Dive deep into the Runnable
+- Learn different types of Runnable
+- `RunnableSequence`, `RunnableParallel`, `RunnavlePassthrough`, `RunnableLambda`, `RunnableBranch`.
+
 ---
 
 ## 🛠️ Requirements
