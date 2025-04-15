@@ -47,6 +47,11 @@ Here’s a beginner-friendly day-by-day breakdown. Each day focuses on a specifi
 - Learn different types of Runnable
 - `RunnableSequence`, `RunnableParallel`, `RunnavlePassthrough`, `RunnableLambda`, `RunnableBranch`.
 
+### 🗓️ [Day 8: Agents](./doc_loaders/)
+- Understanding Document Loaders
+- Loading documents from various sources (PDF, CSV, etc.)
+- Using `TextLoader`, `CSVLoader`, `PDFLoader`, etc.
+
 ---
 
 ## 🛠️ Requirements

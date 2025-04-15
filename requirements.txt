@@ -12,3 +12,4 @@ scikit-learn
 sentencepiece
 streamlit
 grandalf
+langchain_community
