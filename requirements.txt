@@ -12,4 +12,6 @@ scikit-learn
 sentencepiece
 streamlit
 grandalf
+pypdf
+bs4
 langchain_community
