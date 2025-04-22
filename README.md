@@ -52,6 +52,11 @@ Here’s a beginner-friendly day-by-day breakdown. Each day focuses on a specifi
 - Loading documents from various sources (PDF, CSV, etc.)
 - Using `TextLoader`, `CSVLoader`, `PDFLoader`,`WebBaseLoader` etc.
 
+### 🗓️ [Day 9: Text Splitters](./text_splitter/)
+- Understanding Text Splitters and their importance
+- Split documents on the basis of length, text structure, document structure, semantic meaning etc.
+- Using `RecursiveCharacterTextSplitter`, `CharacterTextSplitter`, etc.
+
 ---
 
 ## 🛠️ Requirements
@@ -59,6 +64,10 @@ Here’s a beginner-friendly day-by-day breakdown. Each day focuses on a specifi
 - Free API keys (Google Gemini, HuggingFace, etc.)
 - Any IDE that you love to code in
 
+
+## 📚 Resources
+- [LangChain Documentation](https://python.langchain.com/docs/introduction/)
+- [Youtube Playlist in Hindi](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&si=U_dpsdLABVtjB4Cc)
 ---
 
 
