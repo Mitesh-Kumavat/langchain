@@ -13,5 +13,6 @@ sentencepiece
 streamlit
 grandalf
 pypdf
+chromadb
 bs4
 langchain_community

@@ -57,6 +57,11 @@ Here’s a beginner-friendly day-by-day breakdown. Each day focuses on a specifi
 - Split documents on the basis of length, text structure, document structure, semantic meaning etc.
 - Using `RecursiveCharacterTextSplitter`, `CharacterTextSplitter`, etc.
 
+### 🗓️ [Day 10: Vector Stores](./vector_sotres/)
+- Understanding Vector Stores and their role in LangChain
+- Work with the `Chroma` vector store
+- Create and query vector stores for efficient retrieval with CRUD operations
+
 ---
 
 ## 🛠️ Requirements
