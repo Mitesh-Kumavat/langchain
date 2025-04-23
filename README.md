@@ -47,7 +47,7 @@ Here’s a beginner-friendly day-by-day breakdown. Each day focuses on a specifi
 - Learn different types of Runnable
 - `RunnableSequence`, `RunnableParallel`, `RunnavlePassthrough`, `RunnableLambda`, `RunnableBranch`.
 
-### 🗓️ [Day 8: Agents](./doc_loaders/)
+### 🗓️ [Day 8: Document Loaders](./doc_loaders/)
 - Understanding Document Loaders
 - Loading documents from various sources (PDF, CSV, etc.)
 - Using `TextLoader`, `CSVLoader`, `PDFLoader`,`WebBaseLoader` etc.
@@ -57,7 +57,7 @@ Here’s a beginner-friendly day-by-day breakdown. Each day focuses on a specifi
 - Split documents on the basis of length, text structure, document structure, semantic meaning etc.
 - Using `RecursiveCharacterTextSplitter`, `CharacterTextSplitter`, etc.
 
-### 🗓️ [Day 10: Vector Stores](./vector_sotres/)
+### 🗓️ [Day 10: Vector Stores](./vector_stores/)
 - Understanding Vector Stores and their role in LangChain
 - Work with the `Chroma` vector store
 - Create and query vector stores for efficient retrieval with CRUD operations
