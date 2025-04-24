@@ -14,5 +14,6 @@ streamlit
 grandalf
 pypdf
 chromadb
+wikipedia
 bs4
 langchain_community

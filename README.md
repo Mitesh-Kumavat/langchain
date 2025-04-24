@@ -62,6 +62,11 @@ Here’s a beginner-friendly day-by-day breakdown. Each day focuses on a specifi
 - Work with the `Chroma` vector store
 - Create and query vector stores for efficient retrieval with CRUD operations
 
+### 🗓️ [Day 11: Retrievers](./retrievers/)
+- Understanding the need for retrievers and different types of retrievers
+- Using `VectorStoreRetriever`, `WebBaseRetriever`, `ArchiveRetriever`, `MultiQueryRetriever`, `ContextualCompressionRetriever` etc.
+- Building a retriever chain for efficient information retrieval
+
 ---
 
 ## 🛠️ Requirements
