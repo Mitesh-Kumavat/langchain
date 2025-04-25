@@ -1,6 +1,5 @@
 langchain
 langchain-core
-langchain-anthropic
 langchain-google-genai
 google-generativeai
 langchain-huggingface
@@ -15,5 +14,6 @@ grandalf
 pypdf
 chromadb
 wikipedia
+youtube-transcript-api
 bs4
 langchain_community
