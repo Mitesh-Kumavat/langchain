@@ -67,6 +67,16 @@ Here’s a beginner-friendly day-by-day breakdown. Each day focuses on a specifi
 - Using `VectorStoreRetriever`, `WebBaseRetriever`, `ArchiveRetriever`, `MultiQueryRetriever`, `ContextualCompressionRetriever` etc.
 - Building a retriever chain for efficient information retrieval
 
+### 🗓️ [Day 12: RAG Example](./rag_examples/)
+- Understanding Retrieval-Augmented Generation (RAG)
+- Building a simple RAG application (Chat with any youtube video's content)
+- Learn the flow of RAG and how it enhances the performance of LLMs
+
+### 🗓️ [Day 13: Tools](./tools/)
+- Understanding the need for tools in LangChain
+- Understand the Built-In tools of langchain like `ShellTool`, `DuckDuckGo` and many more.
+- Built Custom tool using `@tool` decorator, `BaseTool` and `Tool` class.
+
 ---
 
 ## 🛠️ Requirements

@@ -17,3 +17,4 @@ wikipedia
 youtube-transcript-api
 bs4
 langchain_community
+duckduckgo-search
