@@ -77,6 +77,10 @@ Here’s a beginner-friendly day-by-day breakdown. Each day focuses on a specifi
 - Understand the Built-In tools of langchain like `ShellTool`, `DuckDuckGo` and many more and build your own custom tool in various way
 - Learn how to bind the tools with LLMs and use them in your application by making the simple project like Currency Conversion Tool
 
+### 🗓️ [Day 14: Agents](./agents/)
+- Understanding Agents and their role in LangChain
+- Make an agent using `ReAgent` and learn how to use it with LLMs
+- Build a simple project like weather agent using custom tool
 ---
 
 ## 🛠️ Requirements
